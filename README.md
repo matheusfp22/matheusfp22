@@ -1,3 +1,8 @@
+### Olá, visitante! 🤘🏼 
+###### Criei este perfil para registrar e compartilhar minhas experiências.
+
+---------------------------------------------------------------------
+
 <div>
   <a href="https://github.com/MatheusPiovezan">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusPiovezan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
