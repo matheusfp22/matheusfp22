@@ -1,11 +1,8 @@
 ### Hello World! 🤘🏼 
 ###### Criei este perfil para registrar e compartilhar minhas experiências.
-</br>
 
-<div>
-  <a href="https://www.linkedin.com/in/matheuspiovezan/"><img width="75" height="20" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
----------------------------------------------------------------------
+## <div><a href="https://www.linkedin.com/in/matheuspiovezan/"><img width="75" height="20" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="M-C#" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="M-Js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
