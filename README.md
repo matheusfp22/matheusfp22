@@ -1,5 +1,4 @@
 ### Hello World! 🤘🏼 
-###### Criei este perfil para registrar e compartilhar minhas experiências.
 
 ## <div><a href="https://www.linkedin.com/in/matheuspiovezan/"><img width="75" height="20" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div>
 
